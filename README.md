@@ -1,4 +1,4 @@
-# Auto Login to Komga (Dynamic, SPA Support)
+# Auto Login to Komga
 
 This userscript automates the login process to Komga. It detects when the user is on the login page and automatically performs the login action, then redirects to a specified dashboard page after successful login.
 
