@@ -22,8 +22,3 @@ This userscript automates the login process to Komga. It detects when the user i
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the script.
-
----
-
-**Author**: wanhuz
-
