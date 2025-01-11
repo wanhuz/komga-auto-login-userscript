@@ -17,8 +17,9 @@ This userscript automates the login process to Komga. It detects when the user i
 5. Save the script.
 
 ## Notes
-- **Security Warning**: This script contains plain-text credentials, which can be easily accessed by others. Use it at your own risk and avoid using it on shared or public devices.
+- **Security Warning**: This script contains plain-text credentials, which can be easily accessed by others. Use it at your own risk and avoid using it on shared devices.
 - Customize the redirect URL (`redirectUrl`) to match your desired page after login or just leave it at default.
+- Best used with Hermit android app to create Android-like app for Komga
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the script.
